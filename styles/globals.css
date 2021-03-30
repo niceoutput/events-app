@@ -6,6 +6,8 @@
 
 body {
   font-family: 'Open Sans', 'Lato', sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
 h1,
@@ -15,4 +17,8 @@ h4,
 h5,
 h6 {
   font-family: 'Lato', sans-serif;
+}
+
+.center {
+  text-align: center;
 }
